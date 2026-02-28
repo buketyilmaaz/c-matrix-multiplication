@@ -1,9 +1,16 @@
 # C Programming Exercises
 
-This repository contains simple C/C++ programming exercises.
+This repository contains small C/C++ programming exercises and algorithm examples.
 
-Programs included:
+## Programs
 - Matrix multiplication
 - Reverse three digit number
-
-These programs were written for practice and learning purposes.
+- Average of numbers
+- Minimum number and average in an array
+- Rectangle area calculator
+- Perfect number checker
+- Factorial calculator
+- Fibonacci series
+- Prime number checker
+- Bubble sort algorithm
+- Number guessing game
