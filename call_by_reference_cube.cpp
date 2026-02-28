@@ -1,8 +1,3 @@
-﻿// REFERANSA GÖRE ÇAĞIRMA KULLANARK BİR DEĞERİN KÜPÜNÜ ALMAK.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
-//+
-
-
-
 
 /*KÜÇÜK HARFLERİ BÜYÜK HARFE ÇEVİRME*/
 #include <stdio.h>
@@ -20,5 +15,6 @@ int main() {
 		}*Ptr++;
 	}
 }
+
 
 
